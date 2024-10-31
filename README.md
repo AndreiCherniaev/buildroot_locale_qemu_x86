@@ -10,8 +10,8 @@ BR2_ENABLE_LOCALE_WHITELIST has default value C, en_US
 
 ## Clone
 ```
-git clone --remote-submodules --recurse-submodules -j8 https://github.com/AndreiCherniaev/buildroot_cpio_i386_bios.git
-cd buildroot_cpio_i386_bios/
+git clone --remote-submodules --recurse-submodules -j8 https://github.com/AndreiCherniaev/buildroot_locale_qemu_x86.git
+cd buildroot_locale_qemu_x86/
 ```
 ## Make image
 ```
